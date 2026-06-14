@@ -18,7 +18,7 @@
   <a href="https://drive.google.com/file/d/1W_-s_GVMOc_-jmTh7Vv2K2qiCPr1XxgE/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-000000?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=alwayspriyesh&style=for-the-badge&color=black&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=alwayspriyesh&style=for-the-badge&color=grey&label=PROFILE+VIEWS" />
 
 </div>
 
