@@ -122,7 +122,7 @@
 ### Stats & Contributions
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alwayspriyesh&show_icons=true&bg_color=0D0D0D&title_color=ffffff&icon_color=ffffff&text_color=cccccc&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=alwayspriyesh&show_icons=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=ffffff&icon_color=ffffff&text_color=cccccc&hide_border=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwayspriyesh&layout=compact&bg_color=0D0D0D&title_color=ffffff&text_color=cccccc&hide_border=true"/>
 </p>
 
