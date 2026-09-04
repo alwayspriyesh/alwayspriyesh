@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Banner Image -->
-<img src="./git-pri.png" width="100%" alt="Hii I'm Priyesh"/>
 
 <p><em><strong>I am a Computer Science student and an AI/ML developer. I love building smart web applications using React and FastAPI. I enjoy training AI models and creating software that helps solve real problems.</strong></em></p> <br>
 
