@@ -13,8 +13,8 @@
   <a href="mailto:priyesh.code@gmail.com"><img src="https://img.shields.io/badge/✉%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/alwayspriyesh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Alwayspriyesh"><img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://priyesh.tech"><img src="https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge&logoColor=white" /></a>
-  <a href="https://drive.google.com/file/d/1W_-s_GVMOc_-jmTh7Vv2K2qiCPr1XxgE/view?usp=sharing"><img src="https://img.shields.io/badge/📄%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+
+  
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=alwayspriyesh&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS" />
@@ -28,7 +28,7 @@
 * Currently focusing on **Deep Learning & Generative AI**
 * Learning and researching: **Computer Vision, NLP, and MLOps**
 * Goal: **Build smart tools to help people and solve real problems**
-* Website: [priyesh.tech](https://priyesh.tech)
+
 * Email: [priyesh.code@gmail.com](mailto:priyesh.code@gmail.com)
 
 ---
